@@ -1,0 +1,12 @@
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\bin\Debug\netcoreapp3.1\ProjetoCopel.deps.json
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\bin\Debug\netcoreapp3.1\ProjetoCopel.dll
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\obj\Debug\netcoreapp3.1\ProjetoCopel.csprojAssemblyReference.cache
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\obj\Debug\netcoreapp3.1\ProjetoCopel.AssemblyInfoInputs.cache
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\obj\Debug\netcoreapp3.1\ProjetoCopel.AssemblyInfo.cs
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\bin\Debug\netcoreapp3.1\ProjetoCopel.runtimeconfig.json
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\bin\Debug\netcoreapp3.1\ProjetoCopel.runtimeconfig.dev.json
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\obj\Debug\netcoreapp3.1\ProjetoCopel.genruntimeconfig.cache
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\bin\Debug\netcoreapp3.1\ProjetoCopel.pdb
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\obj\Debug\netcoreapp3.1\ProjetoCopel.csproj.CoreCompileInputs.cache
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\obj\Debug\netcoreapp3.1\ProjetoCopel.dll
+C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\ProjetoCopel\ProjetoCopel\obj\Debug\netcoreapp3.1\ProjetoCopel.pdb
