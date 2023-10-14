@@ -1,9 +1,0 @@
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.deps.json
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.dll
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csprojAssemblyReference.cache
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfoInputs.cache
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfo.cs
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.pdb
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.dll
-C:\Users\aline\OneDrive\BSIUP\Ambientes Organizacionais\PROJETO COPEL\Biblioteca\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.pdb
