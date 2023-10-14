@@ -1,0 +1,49 @@
+Algoritmo "semnome"
+
+Var
+   P, H, IMC:real
+   nome:caractere
+
+Inicio
+
+   escreva("NOME:")
+   leia(nome)
+   escreval()
+   escreva("ALTURA:")
+   leia(H)
+   escreval()
+   escreva("PESO:")
+   leia(P)
+   escreval()
+   IMC<-P/H^2
+   escreval(imc)
+   
+   se (IMC<=17) entao
+      escreval(nome, " ESTÁ MUITO ABAIXO DO PESO")
+   senao
+      se (IMC>17)e(IMC<=18,49) entao
+         escreval(nome, " ESTÁ ABAIXO DO PESO")
+      senao
+         se (IMC>18,49)e(IMC<=24,99) entao
+            escreval(nome, " ESTÁ NO PESO NORMAL")
+         senao
+            se (IMC>24,99)e(IMC<=29,99) entao
+               escreval(nome, " ESTÁ ACIMA DO PESO")
+            senao
+               se (IMC>29,99)e(IMC<=34,99) entao
+                  escreval(nome, " ESTÁ EM OBESIDADE GRAU I")
+               senao
+                    se (IMC>34,99)e(IMC<=39,99) entao
+                       escreval(nome, " ESTÁ EM OBESIDADE GRAU II (SEVERA)")
+                    senao
+                         se (IMC>39,99)e(IMC<=40) entao
+                            escreval(nome, " ESTÁ EM OBESIDADE GRAU III(MORBIDA)")
+                         fimse
+                    fimse
+               fimse
+            fimse
+         fimse
+      fimse
+   fimse
+
+Fimalgoritmo
